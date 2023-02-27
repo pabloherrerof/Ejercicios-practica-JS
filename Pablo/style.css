@@ -1,0 +1,36 @@
+body {
+    background-color: lightblue;
+}
+
+.nav-button {
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    margin: 6px 0;
+    display: none;
+}
+
+#nav-bar-list,
+a {
+    gap: 1em;
+    list-style: none;
+    text-decoration: none;
+    color: black;
+    font-size: 1.1em;
+    margin-top: 2vh;
+    font-weight: bold;
+}
+
+table {
+    width: 80vw;
+    height: 20vh;
+    text-align: center;
+    background-color: antiquewhite;
+    border: 2px black solid;
+    margin: 5% auto;
+}
+
+#new-row {
+    justify-items: center;
+}
+
